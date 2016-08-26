@@ -1,3 +1,9 @@
+/*Author: PJ Trowski
+  email: ptrowski77@gmail.com
+ This is small program to decrypt Adobe serial number from regedit.
+ Feel free to use.Writen for educational purpose only.
+ Enjoy
+*/
 
 import java.awt.Color;
 import java.awt.FlowLayout;
